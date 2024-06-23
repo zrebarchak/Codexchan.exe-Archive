@@ -1,0 +1,1 @@
+Quickly testing this input, generating for testudo formation this time, seems like it gets a lot closer. Historical generation seems promising but I have to increase. The resolution of my generator do a lot more training.

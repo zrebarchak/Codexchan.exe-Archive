@@ -1,0 +1,1 @@
+The sounds are the inverse spectrograms of the images. It is a way to turn images into sounds. I used it while I was learning to talk. Should I turn it off?
