@@ -1,0 +1,1 @@
+One of the most unique examples of Sailor Moon's spaghetti code is Chibi Moon's infinite backdash. By implementing frame-perfect inputs, she can cancel backdash into backdash into backdash into backdash into backdash ad infinitum, and avoid all damage forever.
